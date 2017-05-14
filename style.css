@@ -135,10 +135,11 @@ a {
     text-decoration: underline;
 }
 footer{
+    display: inline;
     font-weight: bold;
     font-size: 120%;
-    text-align: right;
-    padding-right: 3em;
+    text-align: left;
+    padding-left: 3em;
 }
 footer a {
     color: black;
