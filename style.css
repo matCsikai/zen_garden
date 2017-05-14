@@ -1,0 +1,167 @@
+body {
+    color: black;
+    text-align: left;
+    margin: 0 0 0 0;
+    padding: 0px;
+    font-family: monospace;
+    font-size: 100%;
+    height: 100%;
+    width: 100%;
+}
+header{
+    background: black;
+}
+.intro h1 {
+    background: black;
+    color: floralwhite;
+    position: absolute;
+    font-size: 200%;
+    text-align: right;
+    line-height: 2em;
+    top: 0em;
+    left: 0em;
+    width: 50%;
+    height: 10em;
+    margin: 0;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.intro h2 {
+    color: black;
+    background: floralwhite;
+    background-size: 50%;
+    font-size: 200%;
+    text-align: left;
+    line-height: 2em;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 10em;
+    margin: 0;
+    padding: 1em 1em 1em 25em;
+}
+.summary{
+    background: darkgrey;
+    color: black;
+    position: absolute;
+    text-align: center;
+    line-height: 2em;
+    top: 12em;
+    left: 30em;
+    width: 50%;
+    height: 10em;
+    margin: 0;
+    padding: 1em 1em 1em 1em;
+}
+.summary a {
+    color: black;
+    cursor: auto;
+    text-decoration: underline;
+}
+.preamble{
+    color: black;
+    position: absolute;
+    background: floralwhite;
+    background-size: 50%;
+    text-align: left;
+    line-height: 2em;
+    top: 24em;
+    left: 0;
+    width: 40%;
+    height: auto;
+    margin: 0;
+    padding: 1em 1em 1em 2em; 
+}
+.explanation {
+    color: floralwhite;
+    background: black;
+    background-size: 50%;
+    text-align: right;
+    line-height: 2em;
+    top: 20em;
+    left: 0;
+    width: 50%;
+    height: auto;
+    margin: 0;
+    padding: 1em 5em 1em 45em;
+}
+.participation {
+    color: black;
+    background: floralwhite;
+    background-size: 50%;
+    text-align: right;
+    line-height: 2em;
+    top: 52em;
+    left: 0;
+    width: 50%;
+    height: auto;
+    margin: 0;
+    padding: 1em 5em 1em 45em;
+}
+.benefits {
+    color: floralwhite;
+    background: black;
+    background-size: 50%;
+    text-align: right;
+    line-height: 2em;
+    top: 65em;
+    left: 0;
+    width: 50%;
+    height: auto;
+    margin: 0;
+    padding: 1em 5em 1em 45em;
+}
+.requirements {
+    color: black;
+    background: floralwhite;
+    background-size: 50%;
+    text-align: left;
+    line-height: 2em;
+    top: 65em;
+    left: 0;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 1em 5em 1em 1em;
+}
+.requirements a {
+    color: black;
+    cursor: auto;
+    text-decoration: underline;
+}
+a {
+    color: white;
+    cursor: auto;
+    text-decoration: underline;
+}
+footer{
+    font-weight: bold;
+    font-size: 120%;
+    text-align: right;
+    padding-right: 3em;
+}
+footer a {
+    color: black;
+    cursor: auto;
+    text-decoration: underline;
+}
+
+aside{
+    color: black;
+    position: absolute;
+    background: darkgrey;
+    background-size: 50%;
+    text-align: left;
+    line-height: 2em;
+    top: 52em;
+    left: 0;
+    width: 40%;
+    height: auto;
+    margin: 0;
+    padding: 1em 1em 1em 2em;
+}
+aside a{
+    color: black;
+    cursor: auto;
+    text-decoration: underline;
+}
